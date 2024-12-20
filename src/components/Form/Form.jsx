@@ -40,7 +40,7 @@ const Form = () => {
       <figure className="figure-fotovictoria">
         <img
           className="img-fluid img-fotovictoria"
-          src="/imagenes/logo.jpg"
+          src="/AlgoRicoFormPage/imagenes/logo.jpg"
           alt=""
         />
       </figure>
